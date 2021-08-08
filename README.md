@@ -25,7 +25,7 @@
 
 
  ### Connect with me through:  
-  - **LinkedIn**: https://www.linkedin.com/in/suyash-bidkar-1baba91a0/
+  - **LinkedIn**: https://www.linkedin.com/in/suyashbidkar/
   - **Gmail**: suyash.bidkar@gmail.com
 
 
