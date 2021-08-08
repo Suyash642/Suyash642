@@ -32,7 +32,6 @@
 <div align="center">
 <h2>My Github Stats </h2>
 
-<img align="center" alt="Suyash's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Suyash642&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=dracula" />
  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Suyash642&theme=dracula&show_icons=true&hide_border=true" />
  </div>
 
