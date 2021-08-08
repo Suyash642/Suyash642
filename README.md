@@ -32,6 +32,7 @@
 <div align="center">
 <h2>My Github Stats </h2>
 
+ <img align="center" src= "https://github-readme-stats.vercel.app/api?username=Suyash642&show_icons=true&theme=dracula">
  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Suyash642&theme=dracula&show_icons=true&hide_border=true" />
  </div>
 
