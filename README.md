@@ -5,7 +5,6 @@
 
 - 🔭    Currently, I'm working on Web application which is one of my Mini-Project
 - 🌱    I’m interested in Machine Learning and Artificial Intelligence, Web Development
-- 💻    I’m currently learning Android app development and Machine Learning
 - 👯    I’m looking to collaborate on Open Source Projects
 
 ## Skills   
