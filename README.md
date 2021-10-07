@@ -1,10 +1,9 @@
-# Hi there, I’m Suyash Bidkar 👋 
+# Hi there, I’m **Suyash Bidkar** 👋 
 #### I am Self motivated Undergraduate Developer who likes to develop cool stuffs and learn new Tech skills
 
 ![Visitor's badge](https://komarev.com/ghpvc/?username=Suyash642)  
 
-- 🔭    Currently, I'm working on Web application which is one of my Mini-Project
-- 🌱    I’m interested in Machine Learning and Artificial Intelligence, Web Development
+- 🌱    I’m interested in Web Development, Machine Learning and Artificial Intelligence.
 - 👯    I’m looking to collaborate on Open Source Projects
 
 ## Skills   
