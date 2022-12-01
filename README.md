@@ -1,5 +1,5 @@
 # Hi there, I’m **Suyash Bidkar** 👋 
-#### I am Self motivated Undergraduate Developer who likes to develop cool stuffs and learn new Tech skills
+#### I am Self motivated Developer who likes to develop cool stuffs and learn new Tech skills
 
 ![Visitor's badge](https://komarev.com/ghpvc/?username=Suyash642)  
 
