@@ -3,26 +3,35 @@
 
 ![Visitor's badge](https://komarev.com/ghpvc/?username=Suyash642)  
 
-- 🌱    I’m interested in Web Development, Machine Learning and Artificial Intelligence.
-- 👯    I’m looking to collaborate on Open Source Projects
+-  I have completed B.E in Information Technology from YCCE, Nagpur.
+-  I am interested in ML, AI and developement.
+-  Here, I have uploaded my projects, have a look on it :)
 
 ## Skills   
-#### Web Skills :
+#### Web :
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### Frameworks:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![SpringBoot](	https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
+![Spring](	https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+
+#### Automation Skills:
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white)
 
 #### Languages :
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
 
+#### Database :
+![SQL](	https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
- ### Connect with me through:  
+
+ ### You Can connect with me through:  
   - **LinkedIn**: https://www.linkedin.com/in/suyashbidkar/
   - **Gmail**: suyash.bidkar@gmail.com
 
